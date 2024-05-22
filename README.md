@@ -1,13 +1,10 @@
 - 👋 Hi, I’m @YashMankar1812
-- 👀 I’m interested in ... Full Stack
+- 👀 I’m Currently Learning in Mern Stack Development .
 - 🌱 I’m currently learning ... In Geekster
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ..
-- 📧 mankaryash@gmail.com
-- 
-- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ✍️ Always eager to learn and take on new challenges .
+- 📫 How to reach me mankaryash@gmail.com
+
+- ⚡ Fun fact: Cooking , Reading Books , 
 
 <!---
 YashMankar1812/YashMankar1812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
