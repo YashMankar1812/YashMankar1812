@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YashMankar1812
 - 👀 I’m Currently Learning  Mern Stack Development .
 - ✍️ Always eager to learn and take on new challenges .
-- 📫 How to reach me mankaryash@gmail.com
+- 📫 How to reach me mankaryash25@gmail.com
 
 - ⚡ Fun fact: Cooking , Reading Books , 
 
