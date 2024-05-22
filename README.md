@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @YashMankar1812
-- 👀 I’m Currently Learning in Mern Stack Development .
-- 🌱 I’m currently learning ... In Geekster
+- 👀 I’m Currently Learning  Mern Stack Development .
 - ✍️ Always eager to learn and take on new challenges .
 - 📫 How to reach me mankaryash@gmail.com
 
